@@ -6,3 +6,4 @@ INSERT INTO bears (name, alive, age) VALUES
 INSERT INTO BEARS (name, alive, age) VALUES("Melissa", true, 12);
 INSERT INTO BEARS (name, alive, age) VALUES("Grinch", true, 15);
 INSERT INTO BEARS (name, alive, age) VALUES("Wendy", true, 2);
+INSERT INTO BEARS (name, alive, age) VALUES(NULL,true, 12);
